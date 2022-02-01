@@ -1,5 +1,5 @@
 ---
-title: "ZFS commands cheatsheet!"
+title: "Using Pageant with VS Code Remote Development"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
