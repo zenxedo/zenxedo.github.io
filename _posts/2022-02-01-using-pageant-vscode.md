@@ -7,7 +7,7 @@ tags:
   - Jekyll
   - update
 ---
-##Using Pageant with VS Code Remote Development
+## Using Pageant with VS Code Remote Development
 
 Copied from
 'link https://rfdonnelly.github.io/posts/vscode-remote-with-pageant/'
