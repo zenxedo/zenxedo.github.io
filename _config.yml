@@ -24,6 +24,7 @@ url: https://zenxedo.github.io # the base hostname & protocol for your site, e.g
 #twitter_username: username
 github_username: zenxedo
 repository: zenxedo/zenxedo.github.io
+github: [metadata]
 minimal_mistakes_skin: dark
 search: true
 
