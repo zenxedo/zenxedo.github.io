@@ -4,7 +4,7 @@ date: 2022-01-01T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
+  - TrueNAS
   - update
 ---
   These are the basic settings I use on a fresh install of FreeNAS. This is for my personal use so some things may not apply to your situation. I made it public becuse it may help others.
